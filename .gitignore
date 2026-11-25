@@ -1,6 +1,6 @@
 Game/*.obj
-Game/DEMO_Labyrint.exe
-Game/DEMO_Labyrint.ilk
-Game/DEMO_Labyrint.pdb
+Game/*.exe
+Game/*.ilk
+Game/*.pdb
 Game/Log.txt
 Game/vc140.pdb

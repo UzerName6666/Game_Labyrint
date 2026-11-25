@@ -9,7 +9,7 @@
                 "/Zi",
                 "/EHsc",
                 "/nologo",
-                "/Fe${fileDirname}\\DEMO_Labyrint.exe",
+                "/Fe${fileDirname}\\Labyrint.exe",
                 "${workspaceFolder}\\*.cpp",
                 "/link", 
                 "/subsystem:windows"
